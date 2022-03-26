@@ -1,0 +1,11 @@
+Section on SVM:
+===============
+ - SVM Intuition
+
+Section on Kernel SVM:
+======================
+- Kernel SVM Intuition
+- Mapping to a higher dimension
+- The Kernel Trick
+- Types of Kernel functions
+- Non-linear kernel SVR
