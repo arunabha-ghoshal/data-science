@@ -1,1 +1,11 @@
 *.log
+*.jar
+*.parquet
+*.csv
+**/ivy*
+**/__pycache__
+**/build
+**/sparkway.egg-info
+**/.eggs
+**/.pytest_cache
+**/.data
