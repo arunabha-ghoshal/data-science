@@ -1,5 +1,4 @@
 *.ipynb_checkpoints
-*.bin
 *.log
 *.jar
 *.parquet
