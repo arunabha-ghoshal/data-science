@@ -1,0 +1,4 @@
+artifact_location: file:///mnt/e/Data_Science_repo/Data_Science/MLOps/week_2/running-mlflow-examples_handson/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: my-experiment-1

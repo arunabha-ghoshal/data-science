@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/Data_Science_repo/Data_Science/MLOps/week_2/running-mlflow-examples_handson/mlruns/1/48fbb59bc3f54ef98e22a16e14a68dcb/artifacts
+end_time: 1654171006885
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 48fbb59bc3f54ef98e22a16e14a68dcb
+run_uuid: 48fbb59bc3f54ef98e22a16e14a68dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654170998317
+status: 3
+tags: []
+user_id: arunabha
